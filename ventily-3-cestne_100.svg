@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ventil" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.15 69.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: fill="#000000;
+        fill-rule: evenodd;
+        stroke-width: .34px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 22.05px;
+      }
+
+      .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-miterlimit: 14.17;
+        stroke-width: 1px;
+      }
+
+      .cls-3 {
+        fill: #e5e5e5;
+        stroke-width: .36px;
+      }
+    </style>
+  </defs>
+  <g id="g4584-6">
+    <path id="path6142-2-7" class="cls-2" d="M57.4,34.59h-29.85"/>
+    <rect id="rect6008-0-8" class="cls-3" x=".18" y="20.73" width="27.61" height="27.61"/>
+    <g id="Trojuholniky">
+      <polygon id="polygon1909-7-5-6" class="cls-1" points="91.98 15.42 91.98 15.42 91.98 15.42 57.6 34.53 91.98 53.35 91.98 15.42"/>
+      <polygon id="polygon6020-6-6" class="cls-1" points="38.48 68.9 38.48 68.9 57.6 34.53 76.42 68.9 38.48 68.9"/>
+      <polygon id="polygon6020-8-7-5" class="cls-1" points="57.6 34.54 76.42 .17 38.48 .17 38.48 .17 38.48 .17 57.6 34.54"/>
+    </g>
+    <g id="text6144-4-6" class="cls-5">
+      <text class="cls-4" transform="translate(6.36 42.55)"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+</svg>
