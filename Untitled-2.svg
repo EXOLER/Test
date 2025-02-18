@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70.85 17.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        fill-rule: evenodd;
+        stroke: #000;
+        stroke-width: .25px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-443.55" y1="-75.34" x2="-443.55" y2="-40.47" gradientTransform="translate(478.71 -19.95) scale(1 -.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="gray"/>
+      <stop offset=".1" stop-color="#bfbfbf"/>
+      <stop offset=".5" stop-color="#f9fafb"/>
+      <stop offset=".9" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <path id="TrubkaVelkaHorizontal" class="cls-1" d="M.12.12h70.6v17.45H.12V.12Z"/>
+</svg>
